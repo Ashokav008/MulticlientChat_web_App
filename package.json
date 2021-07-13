@@ -1,0 +1,14 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "This is a nose project and i agaon instlling the dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashoak",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.1.2"
+  }
+}
