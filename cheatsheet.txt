@@ -1,0 +1,13 @@
+All used commands for rembebring purpose..
+-----------------START--------------------
+
+git config --global user.name Ashokav008
+git config --global user.email "ashokawavre.wce@gmail.com"
+touch .gitignore
+git init
+git add .
+git commit -m "Adding cheasheet"
+git status #just to see
+
+git remote add origin master <github ssh_key of the repo>
+git push origin master
